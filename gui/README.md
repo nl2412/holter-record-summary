@@ -1,12 +1,17 @@
-# HOW TO RUN
+# Frontend service
+- Built using React.
+- Utilised Material-UI components.
+- Main UI in `src/components/HeartRateMonitor.js`.
 
-## Install requirement packages
+## HOW TO RUN
+
+### Install required dependencies
 
 ```
 npm install
 ```
 
-## Run the server
+### Run the server
 
 ```
 npm start

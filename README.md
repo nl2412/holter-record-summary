@@ -1,6 +1,5 @@
 # holter-record-summary
 
-Tech Test Homework:
 Holter Record Summary
 
 A normal heartbeat produces three entities on the ECG — a P wave, a QRS complex, a T wave.
@@ -25,11 +24,6 @@ functionalities:
 2. [BONUS QUESTION] Providing a possibility to set up the date and the time of the recording, as they
    are not included in the file. This should impact the date and the time seen in the measurements.
 
-Cardiologs should be able to recover your work, understand it, trust it easily, maintain it, make changes
-to it, etc
-You are free to choose any language/framework for this exercise.
-Electrocardiography is the process of producing an electrocardiogram (ECG or EKG), a recording of the
-heart&#39;s electrical activity through repeated cardiac
 
 # HOW TO RUN
 

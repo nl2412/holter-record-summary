@@ -25,17 +25,17 @@ functionalities:
    are not included in the file. This should impact the date and the time seen in the measurements.
 
 
-# NAIVE ASSUMPTIONS
+## NAIVE ASSUMPTIONS
 - Users will upload file directly from their local storage (not from urls, etc.).
 - Output of the algorithm for a 24h ECG will always be in a CSV type file.
 
 
-# OUT-OF-SCOPE
+## OUT-OF-SCOPE
 - Deployment of backend and frontend service.
 - Usage for list of wave tags.
 
 
-# HOW TO RUN
+## HOW TO RUN
 
 This project was built using:
 
@@ -44,7 +44,7 @@ This project was built using:
 - Npm: 10.9.2
 - Flask for backend. React for frontend.
 
-## Backend
+### Backend
 
 - Will run on port 8081.
 
@@ -56,7 +56,7 @@ pip3 install -r requirements.txt
 python3 app.py
 ```
 
-## Frontend
+### Frontend
 
 - Will run on port 3000.
 
@@ -68,7 +68,7 @@ npm install
 npm start
 ```
 
-# HOW TO USE
+## HOW TO USE
 
 - Upload file using UPLOAD DELINEATION FILE from the interface.
 - Setup the recording date (optional).

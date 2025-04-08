@@ -35,7 +35,7 @@ functionalities:
 ### Functional
 - Processing of large file (> 1GB).
 - Usage for list of wave tags.
-- 
+  
 ### Ops
 - Deployment of backend and frontend service.
 

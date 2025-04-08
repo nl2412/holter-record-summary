@@ -32,8 +32,9 @@ This project was built using:
 - Python: 3.9.6
 - Node: v23.11.0
 - Npm: 10.9.2
+- Flask for backend. React for frontend.
 
-## BACKEND
+## Backend
 
 - Will run on port 8081.
 
@@ -45,7 +46,7 @@ pip3 install -r requirements.txt
 python3 app.py
 ```
 
-## FRONTEND
+## Frontend
 
 - Will run on port 3000.
 

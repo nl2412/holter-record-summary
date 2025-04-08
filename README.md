@@ -31,8 +31,13 @@ functionalities:
 
 
 ## OUT-OF-SCOPE
-- Deployment of backend and frontend service.
+
+### Functional
+- Processing of large file (> 1GB).
 - Usage for list of wave tags.
+- 
+### Ops
+- Deployment of backend and frontend service.
 
 
 ## HOW TO RUN

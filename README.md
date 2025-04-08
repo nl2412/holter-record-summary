@@ -42,7 +42,7 @@ This project was built using:
 ```
 cd src
 pip3 install -r requirements.txt
-python3 src/app.py
+python3 app.py
 ```
 
 ## FRONTEND

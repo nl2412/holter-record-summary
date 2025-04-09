@@ -1,8 +1,10 @@
 # Backend service
+
 - Built using Flask 3.0
 - Used Pandas for CSV parsing.
-- Main logic in `/api/delineation.py` file.
-  
+- Main logic in `/api/delineation.py`.
+- Host/Port of the API can be changed in `configuration.py`
+
 ## HOW TO RUN
 
 ### Install required dependencies
